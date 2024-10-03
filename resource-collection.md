@@ -12,4 +12,5 @@ title: Resource Collection
   </ul>
 </body>
 
-[Main Page](https://bafflerbach.github.io/DSM-CORE)
+###[Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
+###[Return Home](https://bafflerbach.github.io/DSM-CORE)
