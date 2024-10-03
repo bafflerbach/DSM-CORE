@@ -14,3 +14,10 @@ Data Science for Materials - A Collection of Open Resources for Education
 6. Confirm that it is showing up as desired on the [webpage] (https://bafflerbach.github.io/DSM-CORE/)
 
 # [Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
+
+# Search the Collection
+<form action="{{ site.baseurl }}/search.html" method="get">
+  <label for="search-box">Search</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
