@@ -1,2 +1,2 @@
-# DSM-COER
-Data Science for Materials - Collection of Open Educational Resources
+# DSM-CORE
+Data Science for Materials - Collection of Open Resources for Education
