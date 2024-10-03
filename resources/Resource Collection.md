@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Resources Landing Page
+## Resource Collection
 
 [Resource 1](https://bafflerbach.github.io/DSM-CORE/resources/template_resource)
 
@@ -12,7 +12,7 @@ layout: default
 </head>
 
 <body>
-  <h1>Index of /</h1>
+  <h1>Index of Resources</h1>
   <ul>
     {% for url in site.static_files %}
     <li><a href="{{ site.baseurl | escape }}{{ url.path | escape }}">{{ url.path | escape }}</a> </li>
