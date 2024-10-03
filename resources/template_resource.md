@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# [Back To Resource Collection] (https://bafflerbach.github.io/DSM-CORE/resources/Resources)
+
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
