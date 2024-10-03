@@ -2,6 +2,7 @@
 layout: default
 title: Introduction to Machine Learning for Engineering Research
 author: Benjamin Afflerbach
+date: 2024-10-3
 category: [course, machine learning, undergraduate, research]
 ---
 # [Return To Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection){: .btn}
