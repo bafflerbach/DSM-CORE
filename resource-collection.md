@@ -3,15 +3,6 @@ layout: default
 title: Resource Collection
 ---
 
-## Resource Collection
-
-[Resource 1](https://bafflerbach.github.io/DSM-CORE/resources/template_resource)
-
-### auto section? does html code here work?
-<head>
-  <title>Index of /</title>
-</head>
-
 <body>
   <h1>Index of Resources</h1>
   <ul>
