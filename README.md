@@ -13,9 +13,9 @@ Data Science for Materials - a Collection of Open Resources for Education
 5. Upload and Commit your new resources file
 6. Confirm that it is showing up as desired on the [webpage] (https://bafflerbach.github.io/DSM-CORE/)
 
-# [Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
+# [View Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
 
-# Search the Collection
+## Search Resource Collection
 <form action="{{ site.baseurl }}/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
