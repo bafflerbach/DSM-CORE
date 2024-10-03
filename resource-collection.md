@@ -16,5 +16,6 @@ title: Resource Collection
  <span>{{ resource.title }}</span>
 {% endfor %}
 
+***
 ### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
 ### [Return Home](https://bafflerbach.github.io/DSM-CORE)
