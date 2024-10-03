@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Resource Collection
 ---
 
 ## Resource Collection
