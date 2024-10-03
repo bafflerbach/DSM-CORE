@@ -9,24 +9,24 @@ title: Search
   <input type="submit" value="search">
 </form>
 
-<ul id="search-results"></ul>
+<ul id="search-results"></ul>  
 
 <script>
   window.store = {
-    {% for page in site.pages %}
-      "{{ page.url | slugify }}": {
-        "title": "{{ page.title | xml_escape }}",
-        "author": "{{ page.author | xml_escape }}",
-        "category": "{{ page.category | xml_escape }}",
-        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ page.url | xml_escape }}"
+    {% for resource in site.resources %}
+      "{{ resource.url | slugify }}": {
+        "title": "{{ resource.title | xml_escape }}",
+        "author": "{{ resource.author | xml_escape }}",
+        "category": "{{ resource.category | xml_escape }}",
+        "content": {{ resource.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ resource.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
   };
 </script>
-<script src="/assets/js/lunr.js"></script>
-<script src="/assets/js/search.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lunr.js"></script>
+<script src="{{ site.baseurl }}/assets/js/search.js"></script>
 
 
 <a href="https://bafflerbach.github.io/DSM-CORE/resource-collection">Return to Collection</a><br>
