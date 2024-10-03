@@ -1,5 +1,5 @@
 # DSM-CORE
-Data Science for Materials - Collection of Open Resources for Education
+Data Science for Materials - A Collection of Open Resources for Education
 
 # Goals
 1. Easy maintenance. Information provided here should be a general overview to give users an idea of what is the content, it's scope, and structure
