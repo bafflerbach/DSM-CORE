@@ -12,5 +12,9 @@ title: Resource Collection
   </ul>
 </body>
 
+{% for resource in site.resources %}
+ <span>{{ resource.title }}</span>
+{% endfor %}
+
 ### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
 ### [Return Home](https://bafflerbach.github.io/DSM-CORE)
