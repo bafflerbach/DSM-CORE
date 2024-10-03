@@ -12,3 +12,5 @@ Data Science for Materials - Collection of Open Resources for Education
 4. Navigate to the Resources directory
 5. Upload and Commit your new resources file
 6. Confirm that it is showing up as desired on the webpage: https://bafflerbach.github.io/DSM-CORE/
+
+# [Resources](put the link here)
