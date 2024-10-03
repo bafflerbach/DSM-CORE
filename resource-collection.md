@@ -6,8 +6,8 @@ title: Resource Collection
 <body>
   <h1>Index of Resources</h1>
   <ul>
-    {% for url in site.resources %}
-    <li><a href="{{ site.baseurl | escape }}/{{ url.path | escape }}">{{ url.path | escape }}</a> </li>
+    {% for resource in site.resources %}
+    <li><a href="{{ site.baseurl | escape }}/resources/{{resource.url}}">{{resource.title}}</a> </li>
     {% endfor %}
   </ul>
 </body>
