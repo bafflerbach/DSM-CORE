@@ -29,5 +29,6 @@ title: Search
 <script src="{{ site.baseurl }}/assets/js/search.js"></script>
 
 
-<a href="https://bafflerbach.github.io/DSM-CORE/resource-collection">Return to Collection</a><br>
-<a href="https://bafflerbach.github.io/DSM-CORE">Return to Home</a>
+
+### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)  
+### [Return Home](https://bafflerbach.github.io/DSM-CORE)
