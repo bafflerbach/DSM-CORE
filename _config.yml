@@ -8,5 +8,6 @@ title: DSM-CORE
 description: Data Science for Materials - a Collection of Open Resources for Education
 
 collections:
-  - resources
+  resources:
+    output: true
   
