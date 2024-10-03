@@ -26,6 +26,13 @@
         <span id="logo"></span>
 
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+
+        <form action="{{ site.baseurl }}/DSM-CORE/search.html" method="get">
+          <label for="search-box">Search</label>
+          <input type="text" id="search-box" name="query">
+          <input type="submit" value="search">
+        </form>
+        
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
