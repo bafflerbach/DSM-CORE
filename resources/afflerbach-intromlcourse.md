@@ -41,4 +41,6 @@ It is expected that between synchronous (and asynchronous) meetings, work groups
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[r-markdown]: https://rmarkdown.rstudio.com/
+### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
+### [Return Home](https://bafflerbach.github.io/DSM-CORE)
+
