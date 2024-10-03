@@ -40,7 +40,7 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
-      this.field('author');
+      this.field('author', {boost: 5});
       this.field('category');
       this.field('content');
 
