@@ -12,4 +12,4 @@ title: Resource Collection
   </ul>
 </body>
 
-[back](../)
+[Main Page](https://bafflerbach.github.io/DSM-CORE)
