@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Machine Learning for Engineering Research
 author: Benjamin Afflerbach
 category: [course,machine learning, undergraduate, research]
-description: this is a full semester Introduction to ML course taught through the Informatics Skunkworks program at UW-Madison
 ---
 # [Back To Resource Collection] (https://bafflerbach.github.io/DSM-CORE/resources/Resources)
 
