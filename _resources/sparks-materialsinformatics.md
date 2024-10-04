@@ -7,11 +7,6 @@ category: [Materials Informatics, Structure-property relationships, Data-driven 
 ---
 # [Back To Resource Collection] (https://bafflerbach.github.io/DSM-CORE/resources/Resources)
 * * *
-## REMOVE THE SECTION BEFORE COMMITTING
-[Here's a link to basic markdown syntax](https://markdownguide.offshoot.io/basic-syntax/)  
-[And more complex syntax](https://www.markdownguide.org/extended-syntax/)  
-This is not required but may be useful for those who haven't used markdown recently
-
 
 ## Type of Content
 * Full course on Github and nanoHUB
