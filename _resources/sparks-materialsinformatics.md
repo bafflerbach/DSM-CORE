@@ -12,7 +12,7 @@ category: [Materials Informatics, Structure-property relationships, Data-driven 
 * Full course on Github and nanoHUB
 * course notes (PDFs from ppt slides)
 * worked example notebooks for a huge number of informatics topics ranging from data access via API, featurization, bayesian optimization, hyperparameter tuning, segmentation, deep learning, to language models and more (downloadable, or operating in the browser without, no download/installation required!)
-* Homework assignments
+* Homework assignments and a final project combining Bayesian Optimization and an easy Jello optimization experiment
 * Best practices articles and notebooks for getting started
 
 
