@@ -9,14 +9,18 @@ The DSM-CORE repository is an assembly of teaching materials for applied data sc
 
 # Contribute by creating a new resource ".md" file from the template
 1. Download the [Template](https://github.com/bafflerbach/DSM-CORE/blob/main/template-resource.md)
-3. Fill in the main sections (Everything with UPDATE) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials
+3. Fill in the main sections (Everything with UPDATE) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials.
+Here are a few resources that might be usefulf for editing in markdown:
+[basic markdown syntax](https://markdownguide.offshoot.io/basic-syntax/)  
+[And more complex syntax](https://www.markdownguide.org/extended-syntax/)  
+[And the Specific Style layout that is used](https://pages-themes.github.io/leap-day/)
 4. Save the file be: yourlastname-shortitle.md
 5. Create a Fork of the repo
 6. Navigate to the _resources directory in your new fork and select "Add File" -> "Upload Files" and upload your ".md" file
 7. Commit your upload
 8. Your repo should now say "1 commit ahead...", select "Contribute" -> "Open Pull Request". This will then need to be accepted before it will show up on the webpage
 9. Once you see a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly
-10. If you need to make any edits you can repeat from step 7 except instead of uploading you can edit your file directly via the webpage if you prefer.
+10. If you need to make any edits you can edit your file directly via the webpage on your forked branch and submit another pull request.
 
 # [View Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
 
