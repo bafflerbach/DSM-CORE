@@ -5,7 +5,7 @@ author: Ben A                      # contributor's name
 date: 2024-10-3                       # format as year-mo-day
 category: [test,test]   # list of various categories to help search
 ---
-# [Back To Resource Collection](https://bafflerbach.github.io/DSM-CORE/resources/Resources)
+# {{page.title}}
 * * *
 
 ## Type of Content
