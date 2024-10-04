@@ -1,11 +1,13 @@
 # DSM-CORE
 Data Science for Materials - a Collection of Open Resources for Education
 
-# Goals
-1. Easy maintenance. Information provided here should be a general overview to give users an idea of what is the content, it's scope, and structure
-2. Everything should link out to where it is being maintained elsewhere with a permanent link. Periodically we will check for stale links and reach out for an update.
+The DSM-CORE repository is an assembly of teaching materials for applied data science and machine learning in the field of materials science. As many groups are developing similar courses and materials we hope to facilitate sharing of materials and ideas by providing an easy place to upload new content and search through past materials. Note that the materials themselves are not hosted here and therefore contributors are asked to provide a link to their own hosting platform of choice. After the initial creation of the resource here, there should be minimal to no future updates that are needed unless the content changes drastically and the initial description and tags no longer match.
 
-# Contribute
+# Goals
+1. Easy maintenance. Information provided here should be a general overview to give users an idea of what is the content, it's scope, and structure.
+3. Everything should link out to where it is being maintained elsewhere with a permanent link. Periodically we will check for stale links and reach out for an update.
+
+# Contribute by creating a new resource ".md" file from the template
 1. Download the [Template](https://github.com/bafflerbach/DSM-CORE/blob/main/template-resource.md)
 3. Fill in the main sections (Everything with UPDATE) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials
 4. Save the file be: yourlastname-shortitle.md
