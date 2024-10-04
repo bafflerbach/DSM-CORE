@@ -2,7 +2,7 @@
 layout: default # do not change this
 title: UPDATE                       # will show up at the top of each resource page
 author: UPDATE                      # contributor's name
-date: UPDATE                        # format as year-mo-day
+date: 2024-01-01                        # format as year-mo-day
 category: [UPATE, UPDATE, UPDATE]   # list of various categories to help search
 ---
 # [Back To Resource Collection] (https://bafflerbach.github.io/DSM-CORE/resources/Resources)
