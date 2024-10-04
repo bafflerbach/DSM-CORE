@@ -9,8 +9,8 @@ The DSM-CORE repository is an assembly of teaching materials for applied data sc
 
 # Contribute by creating a new resource ".md" file from the template
 1. Download the [Template](https://github.com/bafflerbach/DSM-CORE/blob/main/template-resource.md)
-3. Fill in the main sections (Everything with UPDATE) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials.
-Here are a few resources that might be usefulf for editing in markdown:
+3. Fill in the main sections (Everything with UPDATE) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials.  
+Here are a few resources that might be usefulf for editing in markdown:  
 [basic markdown syntax](https://markdownguide.offshoot.io/basic-syntax/)  
 [And more complex syntax](https://www.markdownguide.org/extended-syntax/)  
 [And the Specific Style layout that is used](https://pages-themes.github.io/leap-day/)
