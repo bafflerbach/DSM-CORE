@@ -8,7 +8,8 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li><a href="' +'/DSM-CORE'+ item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+        // appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+        // commenting above to remove raw dumping the content until we decide we want to come back to format nicely in some way
       }
 
       searchResults.innerHTML = appendString;
