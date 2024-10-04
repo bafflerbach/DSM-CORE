@@ -12,8 +12,8 @@ Data Science for Materials - a Collection of Open Resources for Education
 5. Create a Fork of the repo
 6. Navigate to the _resources directory in your new fork and select "Add File" -> "Upload Files" and upload your ".md" file
 7. Commit your upload
-8. Your repo should now say "1 commit ahead...", select "Contribute" -> "Open Pull Request". This should be auto accepted if everything suceeded.
-9. Confirm that your new resource is showing up as desired on the [webpage] (https://bafflerbach.github.io/DSM-CORE/)
+8. Your repo should now say "1 commit ahead...", select "Contribute" -> "Open Pull Request". This will then need to be accepted before it will show up on the webpage
+9. Once you see a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly
 10. If you need to make any edits you can repeat from step 7 except instead of uploading you can edit your file directly via the webpage if you prefer.
 
 # [View Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
