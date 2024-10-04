@@ -5,7 +5,7 @@ author: UPDATE                      # contributor's name
 date: 2024-01-01                        # format as year-mo-day
 category: [UPATE, UPDATE, UPDATE]   # list of various categories and keywords to help search
 ---
-# [Back To Resource Collection](https://bafflerbach.github.io/DSM-CORE/resources/Resources)
+# {{page.title}}
 * * *
 
 ## Type of Content
