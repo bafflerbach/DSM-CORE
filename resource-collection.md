@@ -9,7 +9,7 @@ title: Resource Collection
   <ul>
     {% for resource in site.resources %}
     <li>
-      <a href="{{ site.baseurl | escape }}{{resource.url}}"><b style="font-size:2em>{{resource.title}}</b></a><br>
+      <a href="{{ site.baseurl | escape }}{{resource.url}}"><b>{{resource.title}}</b></a><br>
       <b>Categories:</b> {{resource.category | array_to_sentence_string }}<br>
       <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d"}}<br>
     </li>
