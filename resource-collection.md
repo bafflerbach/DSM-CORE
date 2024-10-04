@@ -10,7 +10,7 @@ title: Resource Collection
     {% for resource in site.resources %}
     <li>
       <a href="{{ site.baseurl | escape }}{{resource.url}}"><b>{{resource.title}}</b></a><br>
-      <b>Categories:</b> {{resource.category | }}<br>
+      <b>Categories:</b> {{resource.category | array_to_sentence_string }}<br>
       <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d"}}<br>
     </li>
     {% endfor %}
