@@ -9,7 +9,7 @@ category: [Materials Informatics, Structure-property relationships, Data-driven 
 * * *
 
 ## Type of Content
-* Full course on Github and nanoHUB
+* Full course on Github and nanoHUB (semester long)
 * course notes (PDFs from ppt slides)
 * worked example notebooks for a huge number of informatics topics ranging from data access via API, featurization, bayesian optimization, hyperparameter tuning, segmentation, deep learning, to language models and more (downloadable, or operating in the browser without, no download/installation required!)
 * Homework assignments and a final project combining Bayesian Optimization and an easy Jello optimization experiment
@@ -21,7 +21,7 @@ category: [Materials Informatics, Structure-property relationships, Data-driven 
 
 
 ## Introduction
-* This course will include materials genome initiative, historical materials discovery, the differences between traditional machine learning and materials informatics, materials data, repositories, tasks and types of machine learning, featurization via composition and structure, different algorithms (linear models, ensemble methods, support vector machines, gaussian process, deep learning, convolutional neural networks, variational autoencoders, generative adversarial networks, transformers and attention-based learning, etc.), overfitting, regularization, clustering, generative approaches to machine learning, best practices for model creation, training and validation, metrics, and case studies on successful applications of materials informatics. Students will learn through lecture and practice exercises using data from a variety of sources including experimental and computational using modern programming languages, code repositories, and APIs.
+* This semester length course will include materials genome initiative, historical materials discovery, the differences between traditional machine learning and materials informatics, materials data, repositories, tasks and types of machine learning, featurization via composition and structure, different algorithms (linear models, ensemble methods, support vector machines, gaussian process, deep learning, convolutional neural networks, variational autoencoders, generative adversarial networks, transformers and attention-based learning, etc.), overfitting, regularization, clustering, generative approaches to machine learning, best practices for model creation, training and validation, metrics, and case studies on successful applications of materials informatics. Students will learn through lecture and practice exercises using data from a variety of sources including experimental and computational using modern programming languages, code repositories, and APIs.
 
 ## Links
 * [Materials Informatics course on Github](https://github.com/sp8rks/MaterialsInformatics)
