@@ -10,7 +10,7 @@ title: Resource Collection
     <li>
       <a href="{{ site.baseurl | escape }}{{resource.url}}"><h3>{{resource.title}}</h3></a><br>
       <b>Categories:</b> {{resource.category}}<br>
-      <b>Last Updated:</b> {{resource.date}}
+      <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d}}
     </li>
     {% endfor %}
   </ul>
