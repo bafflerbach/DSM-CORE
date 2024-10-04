@@ -8,9 +8,9 @@ title: Resource Collection
   <ul>
     {% for resource in site.resources %}
     <li>
-      <a href="{{ site.baseurl | escape }}{{resource.url}}"><h2>{{resource.title}}</h2></a><br>
-      <b>Resource categories:</b> {{resource.category}}<br>
-      <b>Last Updated:</b> {{resource.date}}<br>
+      <a href="{{ site.baseurl | escape }}{{resource.url}}"><h3>{{resource.title}}</h3></a><br>
+      <b>Categories:</b> {{resource.category}}<br>
+      <b>Last Updated:</b> {{resource.date}}
     </li>
     {% endfor %}
   </ul>
