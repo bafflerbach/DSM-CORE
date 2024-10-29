@@ -11,6 +11,8 @@ title: Resource Collection
     <li>
       <a href="{{ site.baseurl | escape }}{{resource.url}}"><b>{{resource.title}}</b></a><br>
       <b>Author:</b> {{resource.author}}<br>
+      <b>Author:</b> {{resource.type}}<br>
+      <b>Author:</b> {{resource.length}}<br>
       <b>Topics:</b> {{resource.categories | array_to_sentence_string }}<br>
       <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d"}}<br>
     </li>
