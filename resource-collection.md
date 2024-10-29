@@ -11,9 +11,10 @@ title: Resource Collection
     <li>
       <a href="{{ site.baseurl | escape }}{{resource.url}}"><b>{{resource.title}}</b></a><br>
       <b>Author:</b> {{resource.author}}<br>
-      <b>Content Type:</b> {{resource.type | array_to_sentence_string }}<br>
+      <b>Content Type:</b> {{resource.type}}<br>
       <b>Content Length:</b> {{resource.length}}<br>
       <b>Content Audience:</b> {{resource.audience}}<br>
+      <b>Content Topics:</b> {{resource.topics}}<br>
       <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d"}}<br>
     </li>
     {% endfor %}
