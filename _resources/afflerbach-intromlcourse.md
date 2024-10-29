@@ -6,9 +6,9 @@ date: 2024-10-3
 category: [course, machine learning, undergraduate, research]
 ---
 # {{page.title}}  
-## {{page.author}}  
-## {{page.date}}  
-## {{page.category}}  
+### Author: {{page.author}}  
+### Date Uploaded: {{page.date}}  
+### Content Keywords: {{page.category}}  
 * * *
 
 ## Type of Content
