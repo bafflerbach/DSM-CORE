@@ -11,6 +11,9 @@ category: [course, machine learning, undergraduate, research]
 ### Content Keywords: {{page.category}}  
 * * *
 
+## Audience
+* Undergraduate research students
+  
 ## Type of Content
 * Full Course
 * Weekly Modules
