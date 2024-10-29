@@ -1,5 +1,6 @@
 ---
 layout: default
+category: resource
 title: Introduction to Machine Learning for Engineering Research
 author: Benjamin Afflerbach
 date: 2024-10-3
