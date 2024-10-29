@@ -1,6 +1,6 @@
 ---
 layout: default # do not change this
-category: resource
+category: [resource]
 title: Materials Informatics                       # will show up at the top of each resource page
 author: Taylor Sparks                      # contributor's name
 date: 2024-10-04                        # format as year-mo-day
