@@ -1,12 +1,21 @@
 ---
 layout: default # do not change this
 category: [resource]
-title: Materials Informatics                       # will show up at the top of each resource page
+title: Materials Informatics at the University of Utah (Sparks Group)                       # will show up at the top of each resource page
 author: Taylor Sparks                      # contributor's name
-date: 2024-10-04                        # format as year-mo-day
+date: 2024-10-04                        # format as year-mo-day  
+type: [UPDATE, UPDATE] 
+length: UPDATE
+audience: UPDATE 
 topics: [Materials Informatics, Structure-property relationships, Data-driven discovery, Chemical space exploration, Feature engineering, Small datasets, Uncertainty quantification, Ensemble methods, Active learning, Transfer learning, Self-supervised learning, Composition-based feature vector (CBFV), Structure-based features, Crystal structure representations, Graph Neural Networks (GNNs), Message passing, Generative adversarial networks (GANs), Data augmentation, Inverse design, Diffusion models, Periodic lattices, Sparse graphs, Microstructure segmentation, Two-point statistics, Crystal graph neural networks (CGNNs), Machine learning tasks, Reinforcement learning, Pymatgen, Materials databases (ICSD, MP, OQMD), Two-point statistics]   # list of various categories to help search
 ---
-# Materials Informatics at the University of Utah (Sparks Group)
+# {{page.title}}  
+**Author:** {{page.author}}  
+**Date Uploaded:** {{page.date | date: "%Y-%m-%d"}}  
+**Content Type(s):** {{page.type | array_to_sentence_string}}  
+**Content Length:** {{page.length}}  
+**Content Audience:** {{page.audience}}  
+**Content Topics:** {{page.topics | array_to_sentence_string}}  
 * * *
 
 ## Type of Content
