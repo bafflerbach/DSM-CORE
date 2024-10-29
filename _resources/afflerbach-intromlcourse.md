@@ -7,8 +7,8 @@ category: [course, machine learning, undergraduate, research]
 ---
 # {{page.title}}  
 **Author:** {{page.author}}  
-**Date Uploaded:** {{resource.date}}  
-**Content Keywords:** {{resource.category}}  
+**Date Uploaded:** {{page.date | date: "%Y-%m-%d"}}  
+**Content Keywords:** {{page.category | array_to_sentence_string}}  
 * * *
 
 ## Audience
