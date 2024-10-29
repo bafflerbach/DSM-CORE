@@ -11,8 +11,8 @@ category: [full course, machine learning, undergraduate, research]
 # {{page.title}}  
 **Author:** {{page.author}}  
 **Date Uploaded:** {{page.date | date: "%Y-%m-%d"}}  
-**Content Length** {{page.length}}
-**Content Audience** {{page.audience}}
+**Content Length** {{page.length}}  
+**Content Audience** {{page.audience}}  
 **Content Keywords:** {{page.category | array_to_sentence_string}}  
 * * *
 
