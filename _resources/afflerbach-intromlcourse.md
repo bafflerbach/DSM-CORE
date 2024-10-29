@@ -5,7 +5,10 @@ author: Benjamin Afflerbach
 date: 2024-10-3
 category: [course, machine learning, undergraduate, research]
 ---
-# {{page.title}}
+# {{page.title}}  
+## {{page.author}}  
+## {{page.date}}  
+## {{page.category}}  
 * * *
 
 ## Type of Content
