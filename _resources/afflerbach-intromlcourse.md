@@ -3,11 +3,13 @@ layout: default
 title: Introduction to Machine Learning for Engineering Research
 author: Benjamin Afflerbach
 date: 2024-10-3
-category: [course, machine learning, undergraduate, research]
+category: [full course, machine learning, undergraduate, research]
+length: 10 weeks (1 semester)
 ---
 # {{page.title}}  
 **Author:** {{page.author}}  
 **Date Uploaded:** {{page.date | date: "%Y-%m-%d"}}  
+**Content Length** {{page.length}}
 **Content Keywords:** {{page.category | array_to_sentence_string}}  
 * * *
 
