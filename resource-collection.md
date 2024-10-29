@@ -13,7 +13,6 @@ title: Resource Collection
       <b>Author:</b> {{resource.author}}<br>
       <b>Content Length:</b> {{resource.length}}<br>
       <b>Content Audience:</b> {{resource.audience}}<br>
-      <b>Content Topics:</b> {{resource.topics | array_to_sentence_string }}<br>
       <b>Last Updated:</b> {{resource.date | date: "%Y-%m-%d"}}<br>
     </li>
     {% endfor %}
