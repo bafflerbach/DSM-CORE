@@ -6,7 +6,7 @@ date: 2024-10-3
 type: [full course, pre-recorded lectures, slides, jupyter notebooks, readings]
 length: 10 weeks (1 semester)
 audience: undergraduate
-category: [data cleaning, featurization, model assessment, linear models, neural networks, deep learning, computer vision, machine learning, undergraduate research]
+Topics: [data cleaning, featurization, model assessment, linear models, neural networks, deep learning, computer vision, machine learning, undergraduate research]
 
 ---
 # {{page.title}}  
@@ -15,7 +15,7 @@ category: [data cleaning, featurization, model assessment, linear models, neural
 **Content Type(s):** {{page.type | array_to_sentence_string}}  
 **Content Length:** {{page.length}}  
 **Content Audience:** {{page.audience}}  
-**Content Keywords:** {{page.category | array_to_sentence_string}}  
+**Content Topics:** {{page.Topics | array_to_sentence_string}}  
 * * *
 
 ## Overview
