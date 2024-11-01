@@ -42,6 +42,6 @@ topics: [Materials Informatics, Structure-property relationships, Data-driven di
 * [best practices notebooks](https://github.com/anthony-wang/BestPractices)
 
 * * *
-### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
-### [Return Home](https://bafflerbach.github.io/DSM-CORE)
+### [Return to Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)
+### [Return Home](https://MatSciEdu.github.io/DSM-CORE)
 
