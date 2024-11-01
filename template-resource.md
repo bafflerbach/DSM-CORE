@@ -3,7 +3,7 @@ layout: default                     # do not change this
 category: [resource]                # do not change this
 title: UPDATE                       # will show up at the top of each resource page
 author: UPDATE                      # contributor's name
-date: UPDATE-UPDATE-UPDATE                    # format as year-mo-day
+date: 2024-01-01                    # format as year-mo-day
 type: [UPDATE, UPDATE, UPDATE]      # list of types of materials linked to (e.g. full course, lecture slides, notebooks, etc)
 length: UPDATE                      # time to complete the content
 audience: UPDATE                    # who is the taret audience?
