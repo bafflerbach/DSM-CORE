@@ -30,7 +30,7 @@ This curriculum provides students an introduction to using machine learning tool
 This course contains weekly modules that have pre-recorded lectures and associated slides and Jupyter notebook hands on activities. Deliverables take the form of a "weekly slide deck submission" that mirrors a research slide deck students might present to a research advisor.
 
 ## Links
-[All Materials](https://MatSciEdu.github.io/test_software_carpentry/)
+[All Materials](https://bafflerbach.github.io/test_software_carpentry/)
 
 [ML4ER Course Webpage](https://skunkworks.engr.wisc.edu/informatics-skunkworks-education-course/)
 
