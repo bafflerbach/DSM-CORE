@@ -37,6 +37,6 @@ The lecture is designed to cover theoretical aspects then the notebooks illustra
 - [Notebooks](https://github.com/WardLT/applied-ai-for-materials/tree/main/molecular-property-prediction/chemoinformatics)
 
 * * *
-### [Return to Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
-### [Return Home](https://bafflerbach.github.io/DSM-CORE)
+### [Return to Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)
+### [Return Home](https://MatSciEdu.github.io/DSM-CORE)
 
