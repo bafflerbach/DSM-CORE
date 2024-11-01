@@ -8,7 +8,6 @@ type: [full course, pre-recorded lectures, slides, jupyter notebooks, readings]
 length: 10 weeks (1 semester)
 audience: undergraduate
 topics: [data cleaning, featurization, model assessment, linear models, neural networks, deep learning, computer vision, machine learning, undergraduate research]
-
 ---
 # {{page.title}}  
 **Author:** {{page.author}}  
