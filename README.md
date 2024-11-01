@@ -10,7 +10,7 @@ The DSM-CORE repository is an assembly of teaching materials for applied data sc
 # Contribute by creating a new resource ".md" file from the template
 These instructions assume you are purely interacting through the github website interface and don't require installing git or working with any seperate tools.
 
-1. Download the [Template](https://github.com/bafflerbach/DSM-CORE/blob/main/template-resource.md) which is a markdown file that get's processed into the resource webpage. It is a text file and can be edited with any text editor of your choice.
+1. Download the [Template](https://github.com/MatSciEdu/DSM-CORE/blob/main/template-resource.md) which is a markdown file that get's processed into the resource webpage. It is a text file and can be edited with any text editor of your choice.
 3. Fill in the main sections (everything with the UPDATE tag) of the template with links to and a brief description of the materials being shared. Note that this is ideally a persistant link that will automatically include any future updates to materials.  
 Here are a few resources that might be usefulf for editing in markdown:  
 [basic markdown syntax](https://markdownguide.offshoot.io/basic-syntax/)  
@@ -24,7 +24,7 @@ Here are a few resources that might be usefulf for editing in markdown:
 9. Once you see a confirmation that your pull request has been merged, check to verify that your resource is showing up correctly.
 10. If you need to make any edits you can edit your file directly via the webpage on your forked branch and submit another pull request.
 
-# [View Resource Collection](https://bafflerbach.github.io/DSM-CORE/resource-collection)
+# [View Resource Collection](https://MatSciEdu.github.io/DSM-CORE/resource-collection)
 
 ## Search Resource Collection
 <form action="{{ site.baseurl }}/search.html" method="get">
